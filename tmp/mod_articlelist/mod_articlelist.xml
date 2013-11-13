@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="2.5.0">
+    <name>My article list module</name>
+    <author>Gudkov Sergey</author>
+    <version>1.0</version>
+    <description>Article list module</description>
+    <files>
+        <filename module="mod_articlelist">mod_articlelist.php</filename>
+        <filename module="mod_articlelist">mod_articlelist.xml</filename>
+    </files>
+</install>
